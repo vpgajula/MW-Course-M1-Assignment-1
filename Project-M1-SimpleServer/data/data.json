@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "courseName": "IFT 510",
+        "image": "20220818_142849.jpg",
+        "dept": "Information Technology",
+        "instructor": "Tatiana Walsh",
+        "credits": "4",
+        "description": "Principles of Computer Architecture"
+    },
+    {
+        "id": 1,
+        "courseName": "IFT 530",
+        "image": "20220818_142849.jpg",
+        "dept": "Information Technology",
+        "instructor": "Robert Rucker",
+        "credits": "4",
+        "description": "Advanced DB Systems"  
+    },
+    {
+        "id": 2,
+        "courseName": "IFT 540",
+        "image": "20220818_142849.jpg",
+        "dept": "Information Technology",
+        "instructor": "Michael Walsh",
+        "credits": "4",
+        "description": "Information Systems and Management"
+    },
+    {
+        "id": 3,
+        "courseName": "IFT 598",
+        "image": "20220818_142849.jpg",
+        "dept": "Information Technology",
+        "instructor": "Dinesh Sthapit",
+        "credits": "4",
+        "description": "Middleware Programming and Database Security"
+    }
+]
